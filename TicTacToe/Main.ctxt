@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ PrintBoard()
+comment2.params=n\ board
+comment2.target=void\ playerTurn(java.lang.String,\ java.lang.String[][])
+comment3.params=
+comment3.target=java.lang.String\ XO()
+comment4.params=board
+comment4.target=void\ board(java.lang.String[][])
+comment5.params=board
+comment5.target=void\ next(java.lang.String[][])
+comment6.params=board
+comment6.target=java.lang.String\ detectWin(java.lang.String[][])
+comment7.params=win
+comment7.target=void\ endGame(boolean)
+numComments=8
